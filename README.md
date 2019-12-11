@@ -1,4 +1,5 @@
-# repocomparator
+# GithubRepositoryLister
+
 
 ## Project setup
 ```
