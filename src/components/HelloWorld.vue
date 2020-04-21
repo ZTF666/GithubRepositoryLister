@@ -45,7 +45,7 @@
             
             </tr>
             
-            <tr><td colspan="5"><button  class="btn btn-sm btn-info">Export</button></td></tr>
+            <!-- <tr><td colspan="5"><button  class="btn btn-sm btn-info">Export</button></td></tr> -->
             
           </tbody>
 
